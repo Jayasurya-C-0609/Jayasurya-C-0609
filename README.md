@@ -90,15 +90,6 @@ More repositories: [Humanized_LLM](https://github.com/Jayasurya-C-0609/Humanized
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayasurya-C-0609&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya-C-0609&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
----
-
 ## Let's Connect
 
 If you are working on generative AI, computer vision, or autonomous systems, I would be glad to hear from you. I am open to AI/ML internships, research collaborations, and project work.
