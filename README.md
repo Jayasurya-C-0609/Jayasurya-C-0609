@@ -1,4 +1,4 @@
-<h1 align="center">Jayasurya C</h1>
+<h1 align="center">Hi, I'm Jayasurya C</h1>
 
 <p align="center">
   AI/ML Engineer in the making | Generative AI | Computer Vision | Autonomous Systems
@@ -80,16 +80,6 @@ More repositories: [Humanized_LLM](https://github.com/Jayasurya-C-0609/Humanized
 - 200+ problems solved on LeetCode, with regular participation in weekly contests
 
 ---
-
-## Currently Learning
-
-- Agentic AI and multi-agent workflows
-- Advanced RAG architectures and retrieval optimization
-- Autonomous navigation, perception, and localization
-- Model evaluation and deployment of AI applications
-
----
-
 ## Let's Connect
 
 If you are working on generative AI, computer vision, or autonomous systems, I would be glad to hear from you. I am open to AI/ML internships, research collaborations, and project work.
